@@ -1,7 +1,8 @@
 # Data-Engineer-Interview-Preparation
 
-This is my personal learning repository where I track everything I’m practicing and learning to prepare for Data Engineering interviews / Personal Learning — focused on SQL, ETL concepts, data modeling, and theoretical foundations.
+This is my personal learning repository where I track everything I’m practicing and learning — not just for Data Engineering interviews, but also for my own knowledge growth and long-term understanding.
 
+It’s focused on SQL, ETL concepts, data modeling, and theoretical foundations that are essential to becoming a better data engineer.
 ---
 
 ## 📚 What’s Inside
