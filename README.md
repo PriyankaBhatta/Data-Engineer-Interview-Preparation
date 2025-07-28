@@ -36,7 +36,7 @@ If it helps someone else — that’s a bonus.
 ## ✍️ Author
 
 **Priyanka Bhatta**  
-Data Engineer | Documenting my SQL-first interview prep
+Data Engineer |  Strengthening SQL expertise and practical data engineering abilities
 
 ---
 
