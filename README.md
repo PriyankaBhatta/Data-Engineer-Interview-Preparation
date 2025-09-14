@@ -7,7 +7,7 @@ It’s focused on SQL, ETL concepts, data modeling, and theoretical foundations 
 
 ## 📚 What’s Inside
 
-- SQL practice and problem solving
+- SQL, Python practice and problem solving
 - ETL concepts and design notes
 - Data modeling theory (schemas, normalization)
 - System design notes specific to Data Engineering
